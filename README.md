@@ -1,5 +1,8 @@
 # hybrid-p2p-file-sharing
 
+Hybrid p2p sharing utilizes the client network to share updates and improve transmission efficiency, by allowing peers to act as transmitting servers.
+For detailed description and comparison results refer to the Report.pdf.
+
 Steps to run p2p-share
 - clone repo into server and client machine
 - add files you want to share in the folder
